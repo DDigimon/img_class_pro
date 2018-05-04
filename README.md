@@ -7,17 +7,17 @@ file
 
 |-datasets
 
-|-test
+    |-test
 
-|-train
+    |-train
 
 |-train.txt
 
 |-save_data
 
-|-model_data
+    |-model_data
 
-|-tb_Data
+    |-tb_Data
  
 可修改部分：
 train.py 中一切和model有关的代码
