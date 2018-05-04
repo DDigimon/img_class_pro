@@ -2,14 +2,22 @@
 test_part
 file
 ---train.py
+
  |-test.py
- |-datasets
-    |-test
-    |-train
-    |-train.txt
- |-save_data
-    |-model_data
-    |-tb_Data
+
+|-datasets
+
+|-test
+
+|-train
+
+|-train.txt
+
+|-save_data
+
+|-model_data
+
+|-tb_Data
  
 可修改部分：
 train.py 中一切和model有关的代码
